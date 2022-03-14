@@ -1,5 +1,5 @@
 PKG_NAME := pypi-click_log
-URL = https://files.pythonhosted.org/packages/22/44/3d73579b547f0790a2723728088c96189c8b52bd2ee3c3de8040efc3c1b8/click-log-0.3.2.tar.gz
+URL = https://files.pythonhosted.org/packages/32/32/228be4f971e4bd556c33d52a22682bfe318ffe57a1ddb7a546f347a90260/click-log-0.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
