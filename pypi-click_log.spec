@@ -7,7 +7,7 @@
 #
 Name     : pypi-click_log
 Version  : 0.4.0
-Release  : 39
+Release  : 40
 URL      : https://files.pythonhosted.org/packages/32/32/228be4f971e4bd556c33d52a22682bfe318ffe57a1ddb7a546f347a90260/click-log-0.4.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/32/32/228be4f971e4bd556c33d52a22682bfe318ffe57a1ddb7a546f347a90260/click-log-0.4.0.tar.gz
 Summary  : Logging integration for Click
